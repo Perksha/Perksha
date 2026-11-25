@@ -61,9 +61,9 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your portfolio URL]
-- Email: [Add your email]
+- LinkedIn: [https://www.linkedin.com/in/perksha-s/]
+- Portfolio: [https://perksha.github.io/my-portfolio/]
+- Email: [perkshagurubalan@gmail.com]
 
 ---
 
