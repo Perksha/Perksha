@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Perksha S!
 
-<!--
-**Perksha/Perksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | 2027 Graduate  
+💻 Interested in Software Development, AI/ML, Backend Engineering and Cloud Technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mysql,postgres" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Also explored:** Scikit-learn, XGBoost, NLP, Sentence-BERT, FAISS, RAG
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🔍 RAG-Based Research Paper Novelty Detection
+- 🏭 Machinery Failure Prediction System
+- 🚦 Smart Mobility Transportation Recommendation System
+- 👗 AI-Powered Dress Recommendation System
+- 🏛️ ResolveAI – Smart Citizen Complaint Management System
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Hackathon Winner
+- 🏅 Top 20 – Hackday Hackathon
+- 💡 Participated in multiple hackathons
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Add your LinkedIn URL]
+- Portfolio: [Add your portfolio URL]
+- Email: [Add your email]
+
+---
+
+✨ Always learning, building, and exploring new technologies!
